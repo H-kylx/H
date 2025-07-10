@@ -15,6 +15,7 @@ python3.7+
 运行流程
 在龙芯派上执行faceDetectv7.1.py初始化启动音视频采集，在客户端上执行client_new7.py连接设备接收数据
 
-
+# 开源协议
+遵循MIT协议
 
 
